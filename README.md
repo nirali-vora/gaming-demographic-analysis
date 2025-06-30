@@ -32,8 +32,6 @@ The dataset used contains demographic data of countries and gaming statistics in
 - Population Density
 - Gaming user base (derived or provided)
 
-> Note: Data is cleaned and prepared before performing analysis.
-
 ## 📷 Sample Visualizations
 
 - Bar chart of top 10 countries by gaming population  
